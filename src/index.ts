@@ -12,7 +12,7 @@ events.onAll(({ eventName, data }) => {
     console.log(eventName, data);
 })
 
-// Все шаблоны
+// Все шаблоны приложения
 
 
 // Модель данных приложения
